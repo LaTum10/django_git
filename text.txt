@@ -1,1 +1,14 @@
 Hello
+
+1 en
+2 to
+3 tre
+4 fire
+5 fem
+6 seks
+7 syv
+8 otte
+9 ni
+10 ti
+11 elleve
+12 tolv
